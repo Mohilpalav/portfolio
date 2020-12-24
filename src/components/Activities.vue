@@ -31,7 +31,7 @@
                        <h5 class="mt-0 mb-1">MTA Certified - Introduction to programming using Javascript by Microsoft.</h5>
                     </div>
                     <div class="col-sm">
-                    <p class="text-right">February, 2018</p>
+                    <p class="text-right">August, 2018</p>
                     </div>
                 </div>
                 </b-media>

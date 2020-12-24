@@ -12,7 +12,7 @@
                 <nav class="mb-3">
                     <b-nav vertical>
                     
-                    <b-nav-item @click="hide"><b-icon icon="house-door"></b-icon> Home</b-nav-item>
+                    <b-nav-item @click="hide"><b-icon icon="info-square"></b-icon> About</b-nav-item>
                     <b-nav-item href="#" @click="hide"><b-icon icon="book"></b-icon> Education</b-nav-item>
                     <b-nav-item href="#" @click="hide"><b-icon icon="star"></b-icon> Experience</b-nav-item>
                     <b-nav-item href="#" @click="hide"><b-icon icon="collection"></b-icon> Projects</b-nav-item>

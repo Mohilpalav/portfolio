@@ -4,10 +4,13 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 import App from './App.vue'
-
+import OnScroll from './directives/OnScroll'
 
 Vue.use(BootstrapVue)
 Vue.use(BootstrapVueIcons)
+
+Vue.directive('onscroll', OnScroll);
+
 Vue.config.productionTip = false
 
 new Vue({
