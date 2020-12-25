@@ -12,7 +12,7 @@
                 </template>
                 <h5 class="mt-0 mb-1">Blockchain Demo</h5>
                 <p class="mb-0">
-                    A simple blockhain demo project made using React Js and Go lang. Deployed using Docker.
+                    Built a simple blockhain demo project using React Js and Go lang. Deployed using Docker.
                 </p>
                 <div class="row">
                     <div class="col-sm-2">
@@ -73,7 +73,7 @@
                 </template>
                 <h5 class="mt-0 mb-1">Monthly Grocery planner</h5>
                 <p class="mb-0">
-                   Designed a website to track and analyze monthly grocery using HTML/CSS, F lask and SQLite.
+                   Designed a website to track and analyze monthly grocery using HTML/CSS, Flask and SQLite.
                 </p>
                 <b-link href="https://github.com/Mohilpalav/monthlygroceryplanner">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
@@ -92,7 +92,7 @@
                 </template>
                 <h5 class="mt-0 mb-1">Real-time fake news detection</h5>
                 <p class="mb-0">
-                   Designed an algorithm to detect fake news from real news using Natural language processing and Data analysis in python.
+                   Designed an application to detect fake news from real news using Natural language processing and Data analysis in python.
                 </p>
                 <b-link href="https://github.com/ncrypt96/Fake-news">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
@@ -113,15 +113,17 @@
 </template>
 
 <script>
-
+    export default {};
 </script>
 
-<style>
-img {
-    margin: auto;
-    display: block;
-    width:10%;
-    height: 10%;
+<style lang="scss" scoped>
+.Projects {
+    img {
+        margin: auto;
+        display: block;
+        width:10%;
+        height: 10%;
+    }
 }
 
 </style>

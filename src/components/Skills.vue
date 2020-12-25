@@ -7,35 +7,36 @@
         <b-card-text>
             Languages
             <hr>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">Javascript</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">Go lang</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">Java</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">C</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">C++</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">Python</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">PHP</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">HTML</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">CSS</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="success">SQL</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">Javascript</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">Typescript</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">Go lang</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">Java</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">C</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">C++</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">Python</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">PHP</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">HTML</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">CSS</b-button>
+            <b-button class="btn btn-1 mx-2 my-2">SQL</b-button>
             <br>
             <br>
             Frameworks
             <hr>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">Angular Js</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">React Js</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">Vue Js</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">Flask</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">SQLite</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">PostgreSQL</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">Git</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="primary">Bootstrap</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">Angular Js</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">React Js</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">Vue Js</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">Flask</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">SQLite</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">PostgreSQL</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">Git</b-button>
+            <b-button class="btn btn-2 mx-2 my-2">Bootstrap</b-button>
             <br>
             <br>
             Foreign Languages
             <hr>
-            <b-button class="mx-2 my-2" :pressed="true" variant="info">English</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="info">Hindi</b-button>
-            <b-button class="mx-2 my-2" :pressed="true" variant="info">Marathi</b-button>
+            <b-button class="btn btn-3 mx-2 my-2">English</b-button>
+            <b-button class="btn btn-3 mx-2 my-2">Hindi</b-button>
+            <b-button class="btn btn-3 mx-2 my-2">Marathi</b-button>
             
             
         </b-card-text>
@@ -47,9 +48,35 @@
 </template>
 
 <script>
-
+    export default {};
 </script>
 
-<style>
+<style lang="scss" scoped>
+.Skills {
+    
+    .btn {
+    flex: 1 1 auto;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    border: none;
+    }
 
+
+    .btn:hover {
+    background-position: right center; 
+    }
+
+    .btn-1 {
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+    }
+
+    .btn-2 {
+    background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+    }
+
+    .btn-3 {
+    background-image: linear-gradient(to right, #84fab0 0%, #8fd3f4 51%, #84fab0 100%);
+    }
+}
 </style>
