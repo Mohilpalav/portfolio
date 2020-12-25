@@ -56,8 +56,8 @@
 }
 
 @keyframes effect {
-    from {transform: scale(0); opacity: 0%;}
-    80% {transform: scale(1.01); opacity: 100%;}
+    from {transform: scale(0); opacity: 0;}
+    80% {transform: scale(1.01); opacity: 1;}
     to {transform: scale(1);}
 }
 

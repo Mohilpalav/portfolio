@@ -68,7 +68,7 @@
 }
 
 @keyframes slide {
-    from { left: 50%; opacity: 0%;}
-    to { left: 0%; opacity: 100%; }
+    from { left: 50%; opacity: 0;}
+    to { left: 0%; opacity: 1; }
 }
 </style>
