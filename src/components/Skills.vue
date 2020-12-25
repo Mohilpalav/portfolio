@@ -81,7 +81,7 @@
 }
 
 .scroll {
-   animation: effect 1s ease;
+   animation: effect 1.5s ease;
 }
 
 @keyframes effect {

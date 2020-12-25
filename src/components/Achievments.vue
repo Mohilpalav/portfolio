@@ -64,7 +64,7 @@
     overflow-x: hidden;
 }
 .scroll {
-    animation: slide .75s ease-in;   
+    animation: slide 1.75s ease-in;   
 }
 
 @keyframes slide {
