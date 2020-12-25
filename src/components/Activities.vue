@@ -54,7 +54,7 @@
 <style lang="scss" scoped>
 
 .scroll {
-    animation: slide 1.75s ease-in;
+    animation: slide 0.75s ease-in;
 }
 
 @keyframes slide {

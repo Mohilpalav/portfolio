@@ -51,7 +51,7 @@
 }
 
 .scroll {
-    animation: effect 4s;
+    animation: effect 3s;
 }
 
 @keyframes effect {
