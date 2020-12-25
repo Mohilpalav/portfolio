@@ -55,8 +55,8 @@
 }
 
 @keyframes effect {
-    from {opacity: 0%;}
-    to {opacity: 100%;}
+    from {opacity: 0;}
+    to {opacity: 1;}
 }
 
 
