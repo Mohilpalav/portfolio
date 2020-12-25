@@ -3,7 +3,7 @@
 <div class="Jumbotron">
     <b-jumbotron class="back">
         <b-container fluid class="p-3"> 
-            <b-img center rounded="circle" class="image mx-auto" thumbnail fluid :src="require('../assets/picture.jpg')"></b-img>
+            <b-img center rounded="circle" class="image mx-auto shadow-lg bg-white rounded" :src="require('../assets/picture.jpg')"></b-img>
                 
         </b-container> 
     </b-jumbotron>
@@ -27,9 +27,12 @@
 <style lang="scss" scoped>
 
 .Jumbotron {
+
     .image{
         width: 25%; 
         height: 25%;
+        animation: spin 1s cubic-bezier(.8, 0, .2, 1);
+        border: none;
     }
         
     .back{
@@ -38,6 +41,11 @@
 
     .about{
         text-align: center;
+    }
+
+    @keyframes spin {
+        50% { transform: rotate(0deg);}
+        100% { transform: rotate(360deg);}
     }
 
 }
