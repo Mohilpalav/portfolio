@@ -75,14 +75,8 @@
 }
 
 @keyframes slide {
-    0% {
-        left: 50%;
-        opacity: 0%;
-    }
-    100% {
-        left: 0%;
-        opacity: 100%;
-    }
+    from { left: 50%; opacity: 0%;}
+    to { left: 0%; opacity: 100%; }
 }
 
 </style>
