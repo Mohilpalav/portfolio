@@ -3,7 +3,7 @@
 
     <div class="Projects p-5">
         <h1><b> Projects </b></h1>
-        <b-card class="shadow p-3 mb-5 bg-white rounded" >
+        <b-card v-onscroll class="shadow p-3 mb-5 bg-white rounded" >
         <b-card-text>
             <ul class="list-unstyled">
                 <b-media tag="li">
@@ -101,12 +101,10 @@
                     View Code on GitHub 
                 </b-link>
                 </b-media>
-            </ul>
-            
+            </ul> 
             
         </b-card-text>
         </b-card>
-
 
     </div>
 
@@ -118,6 +116,8 @@
 
 <style lang="scss" scoped>
 .Projects {
+    overflow-x: hidden;
+    
     img {
         margin: auto;
         display: block;
@@ -126,4 +126,12 @@
     }
 }
 
+.scroll {
+        animation: slide .75s ease-in;
+}
+
+@keyframes slide {
+    from { left: 50%; opacity: 0%; }
+    to { left: 0%; opacity: 100%; }
+}
 </style>

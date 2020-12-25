@@ -71,13 +71,12 @@
 }
 
 .scroll {
-        animation: slide .75s ease-in;
-       
+        animation: slide .75s ease-in;  
 }
 
 @keyframes slide {
-    from { left: 50%; }
-    to {left: 0%;}
+    from { left: 50%; opacity: 0%;}
+    to { left: 0%; opacity: 100%; }
 }
 
 </style>

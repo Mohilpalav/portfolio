@@ -3,7 +3,7 @@
 
     <div class="Achievments p-5">
         <h1><b> Achievments </b></h1>
-        <b-card class="shadow p-3 mb-5 bg-white rounded">
+        <b-card v-onscroll class="shadow p-3 mb-5 bg-white rounded">
         <b-card-text>
             <ul class="list-unstyled">
                 <b-media tag="li">
@@ -56,9 +56,19 @@
 </template>
 
 <script>
-
+    export default {};
 </script>
 
-<style>
+<style lang="scss" scoped>
+.Achievments{
+    overflow-x: hidden;
+}
+.scroll {
+    animation: slide .75s ease-in;   
+}
 
+@keyframes slide {
+    from { left: 50%; opacity: 0%;}
+    to { left: 0%; opacity: 100%; }
+}
 </style>

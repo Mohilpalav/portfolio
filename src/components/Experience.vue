@@ -1,7 +1,7 @@
 
 <template>
 
-    <div class="Experiece p-5">
+    <div class="Experience p-5">
         <h1><b> Experience </b></h1>
 
         <b-card  v-onscroll class="shadow p-3 mb-5 bg-white rounded" :img-src="require('../assets/val2bizlogo.jpg')" img-left >
@@ -42,12 +42,13 @@
 </script>
 
 <style lang="scss" scoped>
-
-img {
-    margin: auto;
-    display: block;
-    width: 10%;
-    height: 10%;
+.Experience {
+    img {
+        margin: auto;
+        display: block;
+        width: 10%;
+        height: 10%;
+    }
 }
 
 .scroll {
@@ -55,8 +56,8 @@ img {
 }
 
 @keyframes effect {
-    from {transform: scale(0);}
-    80% {transform: scale(1.01);}
+    from {transform: scale(0); opacity: 0%;}
+    80% {transform: scale(1.01); opacity: 100%;}
     to {transform: scale(1);}
 }
 

@@ -1,9 +1,9 @@
 
 <template>
 
-    <div class="NavBar">
+    <div class="Footer">
         <div class="p-3 bg-dark text-white">
-            <div class="row">
+            <div v-onscroll class="row">
                 <div class="col-4">
                 Developed by Mohil Palav.
                 </div>
@@ -33,11 +33,15 @@
 </template>
 
 <script>
-
+    export default {};
 </script>
 
-<style>
-.link{
-    color: white;
+<style lang="scss" scoped>
+.Footer{
+
+    .link{
+        color: white;
+        text-decoration: none;
+    }
 }
 </style>

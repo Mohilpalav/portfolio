@@ -33,9 +33,7 @@
     }
         
     .back{
-        background-color: #e8f4f8;
-        background-repeat: no-repeat;
-        background-size: cover;
+        background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
     }
 
     .about{

@@ -3,7 +3,7 @@
 
     <div class="Activities p-5">
         <h1><b> Affiliations and Activities </b></h1>
-        <b-card class="shadow p-3 mb-5 bg-white rounded">
+        <b-card v-onscroll class="shadow p-3 mb-5 bg-white rounded">
         <b-card-text>
             <ul class="list-unstyled">
                 <b-media tag="li">
@@ -48,9 +48,17 @@
 </template>
 
 <script>
-
+     export default {};
 </script>
 
-<style>
+<style lang="scss" scoped>
 
+.scroll {
+    animation: slide 0.75s ease-in;
+}
+
+@keyframes slide {
+    from { transform: rotateX(90deg);}
+    to { transform: rotateX(0deg); }
+}
 </style>
