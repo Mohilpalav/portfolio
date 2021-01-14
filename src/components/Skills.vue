@@ -30,6 +30,7 @@
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">PostgreSQL</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Git</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Bootstrap</b-button>
+            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Docker</b-button>
             <br>
             <br>
             Foreign Languages
