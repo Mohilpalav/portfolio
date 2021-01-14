@@ -1,6 +1,6 @@
 # portfolio
 
-View Demo: https://mohilpalav.netlify.app/
+View Demo: https://mohilpalav.me
 
 ## Project setup
 ```
