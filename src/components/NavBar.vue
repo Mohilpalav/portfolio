@@ -4,7 +4,7 @@
     <div class="Navbar">
         <b-navbar class="nav" toggleable type="dark" variant="dark">
             <b-navbar-brand class="mx-auto">
-                Mohil Palav
+                { Mohil Palav }
             </b-navbar-brand>
         </b-navbar>
     </div>
