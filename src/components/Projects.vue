@@ -12,7 +12,7 @@
                 </template>
                 <h5 class="mt-0 mb-1">Blockchain Demo</h5>
                 <p class="mb-0">
-                    Built a simple blockhain demo project using React Js and Go lang. Deployed using Docker.
+                    Built a simple blockchain demo project using React Js and Go lang. Deployed using Docker.
                 </p>
                 <div class="row">
                     <div class="col-sm-2">
