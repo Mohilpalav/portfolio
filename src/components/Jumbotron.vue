@@ -12,7 +12,8 @@
         <footer class="blockquote-footer">Steve Jobs <cite title="Source Title">(“The Innovation Secrets of Steve Jobs,” 2001)</cite></footer>
     </blockquote>
     <div v-onscroll class="about p-5"> 
-        <h2> Hi. I am Mohil Palav. I am a motivated computer engineer with a problem-solving mindset looking forward to applying my knowledge and project experiences in real-world applications.</h2>
+        <h3> Hi. I am Mohil Palav. I am a motivated computer engineer with a problem-solving mindset looking forward to applying my knowledge and project experiences in real-world applications.
+        </h3>
     </div>
   
 </div>
