@@ -28,7 +28,7 @@
                 </template>
                 <div class="row">
                     <div class="col-sm">
-                       <h5 class="mt-0 mb-1">Microsoft Technology Associate - Introduction to programming using Javascript.</h5>
+                       <h5 class="mt-0 mb-1">Microsoft Technology Associate - Introduction to programming using JavaScript.</h5>
                     </div>
                     <div class="col-sm">
                     <p class="text-right">August, 2018</p>

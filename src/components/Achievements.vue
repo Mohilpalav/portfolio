@@ -1,8 +1,8 @@
 
 <template>
 
-    <div class="Achievments p-5">
-        <h1><b> Achievments </b></h1>
+    <div class="Achievements p-5">
+        <h1><b> Achievements </b></h1>
         <b-card v-onscroll class="shadow p-3 mb-5 bg-white rounded">
         <b-card-text>
             <ul class="list-unstyled">
@@ -33,14 +33,14 @@
                 </template>
                 <div class="row">
                     <div class="col-sm">
-                        <h5 class="mt-0 mb-1">Runner up at CIC Hackathon</h5>
+                        <h5 class="mt-0 mb-1">Runner up at CitiusTech CIC Hackathon</h5>
                     </div>
                     <div class="col-sm">
                     <p class="text-right">February, 2018</p>
                     </div>
                 </div>
                 <p class="mb-0">
-                    Received second prize at CITIUS Tech Change India Challenge Hackathon and awarded a cash prize of INR 15,000.
+                    Received second prize at CitiusTech Change India Challenge Hackathon and awarded a cash prize of INR 15,000.
                 </p>
                 
 
@@ -60,7 +60,7 @@
 </script>
 
 <style lang="scss" scoped>
-.Achievments{
+.Achievements{
     overflow-x: hidden;
 }
 .scroll {

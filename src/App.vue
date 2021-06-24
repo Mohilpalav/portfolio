@@ -6,7 +6,7 @@
     <Experience />
     <Projects />
     <Skills />
-    <Achievments />
+    <Achievements />
     <Activities />
     <Footer />
   </div>
@@ -19,7 +19,7 @@ import Education from './components/Education.vue'
 import Experience from './components/Experience.vue'
 import Projects from './components/Projects.vue'
 import Skills from './components/Skills.vue'
-import Achievments from './components/Achievments.vue'
+import Achievements from './components/Achievements.vue'
 import Activities from './components/Activities.vue'
 import Footer from './components/Footer.vue'
 
@@ -32,7 +32,7 @@ export default {
     Experience,
     Projects,
     Skills,
-    Achievments,
+    Achievements,
     Activities,
     Footer
   }
