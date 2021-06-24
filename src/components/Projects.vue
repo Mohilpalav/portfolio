@@ -5,14 +5,104 @@
         <h1><b> Projects </b></h1>
         <b-card v-onscroll class="shadow p-3 mb-5 bg-white rounded" >
         <b-card-text>
+
+            <ul class="list-unstyled">
+                <b-media tag="li">
+                <template #aside>
+                    <b-avatar variant="light" class="mb-2" :src="require('../assets/chatlogo.png')"></b-avatar>
+                </template>
+                <h5 class="mt-0 mb-1">Automated food ordering system using a smart AI assistant.</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Conceptualized a multi-layer feed-forward perceptron neural network to classify text with 80% accuracy. </li>
+                    <li> Trained the model using the bag-of-words word vectorization model and One-Hot encoding on a restaurant corpus. </li>
+                    <li> Composed an interactive conversational chatbot that replies to user queries in Python. </li>
+                </ul>
+                </p>
+                <div class="row">
+                    <div class="col-sm-2">
+                        <b-link href="https://github.com/Mohilpalav/food-ordering-chatbot">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                            </svg>
+                            View Code on GitHub 
+                        </b-link>
+                    </div>
+                </div>
+                </b-media>  
+            </ul>
+
+            <hr>
+
+            <ul class="list-unstyled">
+                <b-media tag="li">
+                <template #aside>
+                    <b-avatar variant="light" class="mb-2" :src="require('../assets/rushhourlogo.jpg')"></b-avatar>
+                </template>
+                <h5 class="mt-0 mb-1">Rushhour board game</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Implemented a Depth-first search based algorithm to predict the next possible states of a goal-based agent to solve the Rushhour board game. </li>
+                    <li> Solved the game using Random Walk, Breadth-first search, and A* algorithm in Python. </li>
+                </ul>
+                </p>
+
+                <div class="row">
+                    <div class="col-sm-2">
+                        <b-link href="https://github.com/Mohilpalav/rush-hour">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                            </svg>
+                            View Code on GitHub 
+                        </b-link>
+                    </div>
+                </div>
+                </b-media>  
+            </ul>
+
+            <hr>
+
+            <ul class="list-unstyled">
+                <b-media tag="li">
+                <template #aside>
+                    <b-avatar variant="light" class="mb-2" :src="require('../assets/sentimentlogo.png')"></b-avatar>
+                </template>
+                <h5 class="mt-0 mb-1">Sentiment analysis of moview reviews</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Trained an N-gram model to represent movie reviews into word vectors in Python. </li>
+                    <li> Designed a Naïve-Bayes classifier to classify whether a movie review is positive, negative, or neutral with 90% accuracy. </li>
+                    <li> Used macro-averaging technique to evaluate the accuracy of the model. </li>
+                </ul>
+                </p>
+
+                <div class="row">
+                    <div class="col-sm-2">
+                        <b-link href="https://github.com/Mohilpalav/sentiment-analysis">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                            </svg>
+                            View Code on GitHub 
+                        </b-link>
+                    </div>
+                </div>
+                </b-media>  
+            </ul>
+            <hr>
+
             <ul class="list-unstyled">
                 <b-media tag="li">
                 <template #aside>
                     <b-avatar variant="light" class="mb-2" :src="require('../assets/blockchainlogo.png')"></b-avatar>
                 </template>
-                <h5 class="mt-0 mb-1">Blockchain Demo</h5>
-                <p class="mb-0">
-                    Built a simple blockchain demo project using React Js and Go lang. Deployed using Docker.
+                <h5 class="mt-0 mb-1">Blockchain demo</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Architectured a program to demonstrate the proof-of-work algorithm and handle and mitigate problems such as double-spend and block forks in Go lang. </li>
+                    <li> Modeled a REST API server accessible via services to manage the blockchain using Gin Web HTTP Framework. </li>
+                    <li> Designed the front end to create, add and tamper with candidate blocks using React JS. </li>
+                    <li> Packaged the application in a Docker container and collaborated using GitHub. </li>
+                </ul>
                 </p>
                 <div class="row">
                     <div class="col-sm-2">
@@ -39,16 +129,20 @@
                 <template #aside>
                     <b-avatar variant="light" class="mb-2" :src="require('../assets/cvlogo.jpg')"></b-avatar>
                 </template>
-                <h5 class="mt-0 mb-1">Colorization of Grayscale images.</h5>
-                <p class="mb-0">
-                   Built a Machine Learning model using a Convolution Neural Network on Pytorch to colorize grayscale images.
+                <h5 class="mt-0 mb-1">Colorization of grayscale images.</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Conceptualized a reinforced machine learning model to convert grayscale images and videos with an accuracy of 85%. </li>
+                    <li> Trained the model to predict the color channels of an image on 40,000 pre-processed images from the MIT dataset in Python. </li>
+                    <li> Composed a web application using HTML, CSS, and Flask REST API to convert images and display the results. </li>
+                </ul>
                 </p>
-                <b-link href="https://github.com/Mohilpalav">
+                <!-- <b-link href="https://github.com/Mohilpalav">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
                     </svg>
                     View Code on GitHub 
-                </b-link>
+                </b-link> -->
                 </b-media>
             </ul>
             <hr>
@@ -58,10 +152,20 @@
                 <template #aside>                            
                     <b-avatar variant="light" class="mb-2" :src="require('../assets/mllogo.png')"></b-avatar>
                 </template>
-                <h5 class="mt-0 mb-1">Speaker Recogniton using GMM.</h5>
-                <p class="mb-0">
-                   Built a Machine Learning model using a GMM in python to identify speaker.
+                <h5 class="mt-0 mb-1">Speaker recogniton system.</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Extracted important features from audio samples using Mel-Frequency Cepstrum Coefficients. </li>
+                    <li> Trained a Gaussian Mixture Model using pre-processed audio samples in Python.</li>
+                    <li> Classified live audio samples using Log-likelihood function with 95% accuracy.</li>
+                </ul>
                 </p>
+                <b-link href="https://github.com/adityac1305/Speaker-Recognition-system-using-GMM">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                    </svg>
+                    View Code on GitHub 
+                </b-link>
                 </b-media>
             </ul>
             <hr>
@@ -71,9 +175,12 @@
                 <template #aside>                            
                     <b-avatar variant="light" class="mb-2" :src="require('../assets/duilogo.png')"></b-avatar>
                 </template>
-                <h5 class="mt-0 mb-1">Monthly Grocery planner</h5>
-                <p class="mb-0">
-                   Designed a website to track and analyze monthly grocery using HTML/CSS, Flask and SQLite.
+                <h5 class="mt-0 mb-1">Monthly grocery planner</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Developed a web application to plan the monthly grocery using HTML, CSS, Flask REST API, and SQLite. </li>
+                    <li> Calculated the monthly expenditure and made suggestions by analyzing recent transactions and shopping patterns. </li>
+                </ul>
                 </p>
                 <b-link href="https://github.com/Mohilpalav/monthlygroceryplanner">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
@@ -91,8 +198,11 @@
                    <b-avatar variant="light" class="mb-2" :src="require('../assets/newslogo.png')"></b-avatar>
                 </template>
                 <h5 class="mt-0 mb-1">Real-time fake news detection</h5>
-                <p class="mb-0">
-                   Designed an application to detect fake news from real news using Natural language processing and Data analysis in python.
+                <p class="my-3">
+                <ul>
+                    <li> Built a desktop application to detect fake news using Electron JS and implemented a web crawler to gather data from reliable news sources and extract important keywords in Python. </li>
+                    <li> Tailored an algorithm to perform close semantic analysis to classify news articles using natural language processing and data analysis with 80% accuracy. </li>
+                </ul>
                 </p>
                 <b-link href="https://github.com/ncrypt96/Fake-news">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">

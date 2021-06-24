@@ -2,7 +2,7 @@
 <template>
 
     <div class="Activities p-5">
-        <h1><b> Affiliations and Activities </b></h1>
+        <h1><b> Affiliations and Certifications </b></h1>
         <b-card v-onscroll class="shadow p-3 mb-5 bg-white rounded">
         <b-card-text>
             <ul class="list-unstyled">
@@ -12,10 +12,10 @@
                 </template>
                 <div class="row">
                     <div class="col-sm">
-                       <h5 class="mt-0 mb-1">Member, IEE Philadelphia section</h5>
+                       <h5 class="mt-0 mb-1">Member, Upsilon Pi Epsilon, Drexel University Chapter</h5>
                     </div>
                     <div class="col-sm">
-                    <p class="text-right">February, 2020</p>
+                    <p class="text-right">May, 2021</p>
                     </div>
                 </div>
                 </b-media>
@@ -28,7 +28,7 @@
                 </template>
                 <div class="row">
                     <div class="col-sm">
-                       <h5 class="mt-0 mb-1">MTA Certified - Introduction to programming using Javascript by Microsoft.</h5>
+                       <h5 class="mt-0 mb-1">Microsoft Technology Associate - Introduction to programming using Javascript.</h5>
                     </div>
                     <div class="col-sm">
                     <p class="text-right">August, 2018</p>

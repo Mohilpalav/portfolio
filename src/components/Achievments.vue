@@ -12,7 +12,7 @@
                 </template>
                 <div class="row">
                     <div class="col-sm">
-                       <h5 class="mt-0 mb-1">Best Departmental project</h5>
+                       <h5 class="mt-0 mb-1">PCUBE Best Departmental project</h5>
                     </div>
                     <div class="col-sm">
                     <p class="text-right">March, 2019</p>

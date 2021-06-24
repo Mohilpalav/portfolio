@@ -11,7 +11,7 @@
             <hr>
             
                 As part of the software engineering team, I had the opportunity to work on the WCA Worldwide VIRTUAL conference project in which more than 2000 participants participated from all across the world.
-                This project introduced me to a lot of new frameworks and technologies like Angular Js and WebRTC.
+                This project introduced me to a lot of new frameworks and technologies like Angular and Material-UI.
                 <br>
                 <br>
                 <dl class="row">
@@ -21,10 +21,11 @@
                 <dt class="col-sm-3">Role</dt>
                 <dd class="col-sm-9">
                     <ul>
-                        <li>Contributing high quality and secure Angular Js code.</li>
-                        <li>Creating and styling interactive frontend using angular material.</li>
+                        <li>Contributing high quality and secure TypeScript code.</li>
+                        <li>Creating and styling interactive frontend using Material-UI.</li>
+                        <li>Improving UI performance by using performance optimizing techniques.</li>
                         <li>Binding and transforming API data.</li>
-                        <li>Collaborating and  using GitHub.</li>
+                        <li>Collaborating using GitHub.</li>
                     </ul>
                 </dd>
                 

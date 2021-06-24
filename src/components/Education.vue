@@ -21,10 +21,10 @@
                                     <dd class="col-sm-9">Computer Science</dd>
                                     
                                     <dt class="col-sm-3">Year</dt>
-                                    <dd class="col-sm-9">2019-present</dd>
+                                    <dd class="col-sm-9">2019-2021</dd>
 
                                     <dt class="col-sm-3">GPA</dt>
-                                    <dd class="col-sm-9">3.85</dd>
+                                    <dd class="col-sm-9">3.84</dd>
                                     </dl>
                             </b-card-text>
                         </b-card>                         
