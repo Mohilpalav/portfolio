@@ -42,7 +42,7 @@
                 <h5 class="mt-0 mb-1">Rushhour board game</h5>
                 <p class="my-3">
                 <ul>
-                    <li> Implemented a Depth-first search based algorithm to predict the next possible states of a goal-based agent to solve the Rushhour board game. </li>
+                    <li> Implemented a Depth-first search-based algorithm to predict the next possible states of a goal-based agent to solve the Rushhour board game. </li>
                     <li> Solved the game using Random Walk, Breadth-first search, and A* algorithm in Python. </li>
                 </ul>
                 </p>
@@ -100,7 +100,7 @@
                 <ul>
                     <li> Architectured a program to demonstrate the proof-of-work algorithm and handle and mitigate problems such as double-spend and block forks in Go lang. </li>
                     <li> Modeled a REST API server accessible via services to manage the blockchain using Gin Web HTTP Framework. </li>
-                    <li> Designed the front end to create, add and tamper with candidate blocks using React JS. </li>
+                    <li> Designed the front end to create, add and tamper with candidate blocks using React. </li>
                     <li> Packaged the application in a Docker container and collaborated using GitHub. </li>
                 </ul>
                 </p>
@@ -155,9 +155,9 @@
                 <h5 class="mt-0 mb-1">Speaker recogniton system.</h5>
                 <p class="my-3">
                 <ul>
-                    <li> Extracted important features from audio samples using Mel-Frequency Cepstrum Coefficients. </li>
+                    <li> Extracted important features from audio samples using Mel-frequency Cepstrum Coefficients. </li>
                     <li> Trained a Gaussian Mixture Model using pre-processed audio samples in Python.</li>
-                    <li> Classified live audio samples using Log-likelihood function with 95% accuracy.</li>
+                    <li> Classified live audio samples using the Log-likelihood function with 95% accuracy.</li>
                 </ul>
                 </p>
                 <b-link href="https://github.com/adityac1305/Speaker-Recognition-system-using-GMM">
@@ -200,7 +200,7 @@
                 <h5 class="mt-0 mb-1">Real-time fake news detection</h5>
                 <p class="my-3">
                 <ul>
-                    <li> Built a desktop application to detect fake news using Electron JS and implemented a web crawler to gather data from reliable news sources and extract important keywords in Python. </li>
+                    <li> Built a desktop application to detect fake news using Electron and implemented a web crawler to gather data from reliable news sources and extract important keywords in Python. </li>
                     <li> Tailored an algorithm to perform close semantic analysis to classify news articles using natural language processing and data analysis with 80% accuracy. </li>
                 </ul>
                 </p>
