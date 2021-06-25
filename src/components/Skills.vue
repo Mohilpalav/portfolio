@@ -5,7 +5,7 @@
         <h1><b> Skills </b></h1>
         <b-card class="shadow p-3 mb-5 bg-white rounded">
         <b-card-text>
-            Languages
+            Programming Languages
             <hr>
             <b-button v-onscroll class="btn btn-1 mx-2 my-2">JavaScript</b-button>
             <b-button v-onscroll class="btn btn-1 mx-2 my-2">TypeScript</b-button>
@@ -74,7 +74,7 @@
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">TFLearn</b-button>
             <br>
             <br>
-            Foreign Languages
+            Languages
             <hr>
             <b-button v-onscroll class="btn btn-8 mx-2 my-2">English</b-button>
             <b-button v-onscroll class="btn btn-8 mx-2 my-2">Hindi</b-button>
