@@ -51,8 +51,8 @@
             <br>
             API
             <hr>
-            <b-button v-onscroll class="btn btn-5 mx-2 my-2">Flask REST API</b-button>
-            <b-button v-onscroll class="btn btn-5 mx-2 my-2">Gin Web HTTP Framework</b-button>
+            <b-button v-onscroll class="btn btn-5 mx-2 my-2">Flask</b-button>
+            <b-button v-onscroll class="btn btn-5 mx-2 my-2">Gin</b-button>
             <br>
             <br>
             Version Control
@@ -68,7 +68,7 @@
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">Scikit-Learn</b-button>
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">Matplotlib</b-button>
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">NLTK</b-button>
-            <b-button v-onscroll class="btn btn-7 mx-2 my-2">Pytorch</b-button>
+            <b-button v-onscroll class="btn btn-7 mx-2 my-2">PyTorch</b-button>
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">TensorFlow</b-button>
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">Keras</b-button>
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">TFLearn</b-button>

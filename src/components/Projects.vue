@@ -14,7 +14,7 @@
                 <h5 class="mt-0 mb-1">Automated food ordering system using a smart AI assistant.</h5>
                 <p class="my-3">
                 <ul>
-                    <li> Conceptualized a multi-layer feed-forward perceptron neural network to classify text with 80% accuracy. </li>
+                    <li> Conceptualized a multi-layer feed-forward perceptron neural network to classify text with 80% accuracy using TensorFlow and TFLearn. </li>
                     <li> Trained the model using the bag-of-words word vectorization model and One-Hot encoding on a restaurant corpus. </li>
                     <li> Composed an interactive conversational chatbot that replies to user queries in Python. </li>
                 </ul>
@@ -99,8 +99,8 @@
                 <p class="my-3">
                 <ul>
                     <li> Architectured a program to demonstrate the proof-of-work algorithm and handle and mitigate problems such as double-spend and block forks in Go lang. </li>
-                    <li> Modeled a REST API server accessible via services to manage the blockchain using Gin Web HTTP Framework. </li>
-                    <li> Designed the front end to create, add and tamper with candidate blocks using React. </li>
+                    <li> Modeled a REST API server accessible via services to manage the blockchain using Gin.. </li>
+                    <li> Designed a web application to create, add and tamper with candidate blocks using React and Bootstrap. </li>
                     <li> Packaged the application in a Docker container and collaborated using GitHub. </li>
                 </ul>
                 </p>
@@ -133,8 +133,8 @@
                 <p class="my-3">
                 <ul>
                     <li> Conceptualized a reinforced machine learning model to convert grayscale images and videos with an accuracy of 85%. </li>
-                    <li> Trained the model to predict the color channels of an image on 40,000 pre-processed images from the MIT dataset in Python. </li>
-                    <li> Composed a web application using HTML, CSS, and Flask REST API to convert images and display the results. </li>
+                    <li> Trained the model to predict the color channels of an image on 40,000 pre-processed images from the MIT dataset using PyTorch. </li>
+                    <li> Composed a web application using HTML, CSS, and Flask to convert images and display the results. </li>
                 </ul>
                 </p>
                 <!-- <b-link href="https://github.com/Mohilpalav">
@@ -155,8 +155,8 @@
                 <h5 class="mt-0 mb-1">Speaker recogniton system.</h5>
                 <p class="my-3">
                 <ul>
-                    <li> Extracted important features from audio samples using Mel-frequency Cepstrum Coefficients. </li>
-                    <li> Trained a Gaussian Mixture Model using pre-processed audio samples in Python.</li>
+                    <li> Extracted important features from audio samples using Mel-frequency Cepstrum Coefficients in Python. </li>
+                    <li> Trained a Gaussian Mixture Model using pre-processed audio samples using Scikit-Learn.</li>
                     <li> Classified live audio samples using the Log-likelihood function with 95% accuracy.</li>
                 </ul>
                 </p>
@@ -178,7 +178,7 @@
                 <h5 class="mt-0 mb-1">Monthly grocery planner</h5>
                 <p class="my-3">
                 <ul>
-                    <li> Developed a web application to plan the monthly grocery using HTML, CSS, Flask REST API, and SQLite. </li>
+                    <li> Developed a web application to plan the monthly grocery using HTML, CSS, Flask, and SQLite. </li>
                     <li> Calculated the monthly expenditure and made suggestions by analyzing recent transactions and shopping patterns. </li>
                 </ul>
                 </p>
@@ -200,7 +200,8 @@
                 <h5 class="mt-0 mb-1">Real-time fake news detection</h5>
                 <p class="my-3">
                 <ul>
-                    <li> Built a desktop application to detect fake news using Electron and implemented a web crawler to gather data from reliable news sources and extract important keywords in Python. </li>
+                    <li> Built a desktop application to detect fake news using Electron, Flask, and Bootstrap.</li>
+                    <li> Implemented a web crawler to gather data from reliable news sources and extract important keywords in Python. </li>
                     <li> Tailored an algorithm to perform close semantic analysis to classify news articles using natural language processing and data analysis with 80% accuracy. </li>
                 </ul>
                 </p>

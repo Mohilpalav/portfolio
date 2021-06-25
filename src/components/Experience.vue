@@ -7,7 +7,7 @@
         <b-card  v-onscroll class="shadow p-3 mb-5 bg-white rounded" :img-src="require('../assets/val2bizlogo.jpg')" img-left >
         <b-card-text>
             <h1> Val2biz Solutions LLC</h1>
-            Remote software engineering intern
+            Software engineering intern
             <hr>
             
                 As part of the software engineering team, I had the opportunity to work on the WCA Worldwide VIRTUAL conference project in which more than 2000 participants participated from all across the world.
