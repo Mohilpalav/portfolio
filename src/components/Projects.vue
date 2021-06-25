@@ -67,7 +67,7 @@
                 <template #aside>
                     <b-avatar variant="light" class="mb-2" :src="require('../assets/sentimentlogo.png')"></b-avatar>
                 </template>
-                <h5 class="mt-0 mb-1">Sentiment analysis of moview reviews</h5>
+                <h5 class="mt-0 mb-1">Sentiment analysis of movie reviews</h5>
                 <p class="my-3">
                 <ul>
                     <li> Trained an N-gram model to represent movie reviews into word vectors in Python. </li>
