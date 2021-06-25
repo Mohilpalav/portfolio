@@ -100,7 +100,7 @@
                 <ul>
                     <li> Architectured a program to demonstrate the proof-of-work algorithm and handle and mitigate problems such as double-spend and block forks in Go lang. </li>
                     <li> Modeled a REST API server accessible via services to manage the blockchain using Gin.. </li>
-                    <li> Designed a web application to create, add and tamper with candidate blocks using React and Bootstrap. </li>
+                    <li> Designed a web application to create, add, and tamper with candidate blocks using React and Bootstrap. </li>
                     <li> Packaged the application in a Docker container and collaborated using GitHub. </li>
                 </ul>
                 </p>
