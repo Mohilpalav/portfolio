@@ -44,7 +44,6 @@
             <hr>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">AWS</b-button>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">Docker</b-button>
-            <b-button v-onscroll class="btn btn-4 mx-2 my-2">Kubernetes</b-button>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">Heroku</b-button>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">Netlify</b-button>
             <br>
