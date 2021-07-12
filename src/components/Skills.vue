@@ -22,6 +22,7 @@
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">CSS</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">jQuery</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">PHP</b-button>
+            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Redux</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Angular</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">React</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">React-native</b-button>
