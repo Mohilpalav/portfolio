@@ -9,6 +9,36 @@
             <ul class="list-unstyled">
                 <b-media tag="li">
                 <template #aside>
+                    <b-avatar variant="light" class="mb-2" :src="require('../assets/astroslogo.png')"></b-avatar>
+                </template>
+                <h5 class="mt-0 mb-1">Houston Astros pitch view.</h5>
+                <p class="my-3">
+                <ul>
+                    <li> Developed a single-page application to filter pitch data from various 2019 Houston Astros games using JavaScript and jQuery. </li>
+                    <li> Visualized various pitch characteristics using Chart.js. </li>
+                    <li> Styled an interactive front-end using Bootstap and CSS. </li>
+                </ul>
+                </p>
+                <div class="row">
+                    <div class="col-sm-2">
+                        <b-link href="https://jsfiddle.net/mohilpalav/ezbrphj7">
+                            View Code on JSFiddle 
+                        </b-link>
+                    </div>
+                    <div class="col-sm-2">
+                        <b-link href="https://jsfiddle.net/mohilpalav/ezbrphj7/show">
+                            View Demo
+                        </b-link>
+                    </div>
+                </div>
+                </b-media>  
+            </ul>
+
+            <hr>
+
+            <ul class="list-unstyled">
+                <b-media tag="li">
+                <template #aside>
                     <b-avatar variant="light" class="mb-2" :src="require('../assets/chatlogo.png')"></b-avatar>
                 </template>
                 <h5 class="mt-0 mb-1">Automated food ordering system using a smart AI assistant.</h5>

@@ -27,6 +27,7 @@
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">React</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">React-native</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Vue.js</b-button>
+            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Chart.js</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Electron</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Bootstrap</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Material-UI</b-button>
