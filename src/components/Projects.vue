@@ -16,7 +16,7 @@
                 <ul>
                     <li> Developed a single-page application to filter pitch data from various 2019 Houston Astros games using JavaScript and jQuery. </li>
                     <li> Visualized various pitch characteristics using Chart.js. </li>
-                    <li> Styled an interactive front-end using Bootstap and CSS. </li>
+                    <li> Styled an interactive front-end using Bootstrap and CSS. </li>
                 </ul>
                 </p>
                 <div class="row">
