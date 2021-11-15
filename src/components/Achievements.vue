@@ -20,6 +20,27 @@
                 </div>
                 
                 <p class="mb-0">
+                    Recognized as a member of Drexel Chapter of Upsilon Pi Epsilon.
+                </p>
+                </b-media>
+            </ul>
+            <hr>
+            
+            <ul class="list-unstyled">
+                <b-media tag="li">
+                <template #aside>
+                    <b-icon class="mt-2" icon="award-fill"></b-icon>
+                </template>
+                <div class="row">
+                    <div class="col-sm">
+                       <h5 class="mt-0 mb-1">PCUBE Best Departmental project</h5>
+                    </div>
+                    <div class="col-sm">
+                    <p class="text-right">March, 2019</p>
+                    </div>
+                </div>
+                
+                <p class="mb-0">
                     Received the Best departmental project award for the final year project Real-time fake news detection.
                 </p>
                 </b-media>
