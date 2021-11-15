@@ -182,7 +182,7 @@
                 <template #aside>                            
                     <b-avatar variant="light" class="mb-2" :src="require('../assets/mllogo.png')"></b-avatar>
                 </template>
-                <h5 class="mt-0 mb-1">Speaker recogniton system.</h5>
+                <h5 class="mt-0 mb-1">Speaker recognition system.</h5>
                 <p class="my-3">
                 <ul>
                     <li> Extracted important features from audio samples using Mel-frequency Cepstrum Coefficients in Python. </li>
