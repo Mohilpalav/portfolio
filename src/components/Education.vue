@@ -94,7 +94,7 @@
             to {transform: translateY(0);}
         }  
         
-        @media only screen and (min-device-width: 480px) {
+        @media only screen and (min-device-width: 768px) {
 
             .timeline {
                 list-style: none;
