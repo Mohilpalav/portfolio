@@ -6,7 +6,29 @@
 
         <b-card  v-onscroll class="shadow p-3 mb-5 bg-white rounded" :img-src="require('../assets/val2bizlogo.jpg')" img-left >
         <b-card-text>
-            <h1> Val2biz Solutions LLC</h1>
+            <h1> Val2biz Solutions</h1>
+            Software engineer
+            <hr>
+            
+                As part of the software engineering team, I had the opportunity to work on a Full-stack domain registration application using Next.js, Firebase and Tailwind CSS.
+                <br>
+                <br>
+                <dl class="row">
+                <dt class="col-sm-3">Period</dt>
+                <dd class="col-sm-9"> August 2021-December 2021</dd>
+            
+                <dt class="col-sm-3">Role</dt>
+                <dd class="col-sm-9">
+                    <ul>
+                        <li>Built a domain registration application by implementing various Server-side rendered components using Next.js in TypeScript.</li>
+                        <li>Managed authentication and NoSQL database using Firebase Authentication, Cloud Firestore, and Cloud Functions.</li>
+                        <li>Maintained a state management system for the application using the zustand library.</li>
+                        <li>Composed a simple and fully responsive user experience using Tailwind CSS.</li>
+                    </ul>
+                </dd>
+                
+                </dl>
+
             Software engineering intern
             <hr>
             
@@ -21,15 +43,15 @@
                 <dt class="col-sm-3">Role</dt>
                 <dd class="col-sm-9">
                     <ul>
-                        <li>Contributing high quality and secure TypeScript code.</li>
-                        <li>Creating and styling interactive frontend using Material-UI.</li>
-                        <li>Improving UI performance by using performance optimizing techniques.</li>
-                        <li>Binding and transforming API data.</li>
-                        <li>Collaborating using GitHub.</li>
+                        <li>Developed a virtual conferencing platform by implementing various modules and components using Angular in TypeScript.</li>
+                        <li>Performed operations on API data and designed an interactive and user-friendly front-end using Material UI.</li>
+                        <li>Improved UI performance by 10% and demonstrated modern version control practices using GitHub</li>
                     </ul>
                 </dd>
                 
                 </dl>
+
+            
             
         </b-card-text>
         </b-card>

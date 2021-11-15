@@ -25,12 +25,12 @@
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Redux</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Angular</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">React</b-button>
-            <b-button v-onscroll class="btn btn-2 mx-2 my-2">React-native</b-button>
+            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Next.js</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Vue.js</b-button>
-            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Chart.js</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Electron</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Bootstrap</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Material-UI</b-button>
+            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Tailwind CSS</b-button>
             <br>
             <br>
             Databases
@@ -46,19 +46,19 @@
             <hr>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">AWS</b-button>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">Docker</b-button>
-            <b-button v-onscroll class="btn btn-4 mx-2 my-2">Heroku</b-button>
-            <b-button v-onscroll class="btn btn-4 mx-2 my-2">Netlify</b-button>
+            <b-button v-onscroll class="btn btn-4 mx-2 my-2">Vercel</b-button>
             <br>
             <br>
             API
             <hr>
             <b-button v-onscroll class="btn btn-5 mx-2 my-2">Flask</b-button>
             <b-button v-onscroll class="btn btn-5 mx-2 my-2">Gin</b-button>
+            <b-button v-onscroll class="btn btn-5 mx-2 my-2">GraphQL</b-button>
             <br>
             <br>
             Version Control
             <hr>
-            <b-button v-onscroll class="btn btn-6 mx-2 my-2">Git</b-button>
+            <b-button v-onscroll class="btn btn-6 mx-2 my-2">GitHub</b-button>
             <b-button v-onscroll class="btn btn-6 mx-2 my-2">Bitbucket</b-button>
             <br>
             <br>
@@ -73,13 +73,6 @@
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">TensorFlow</b-button>
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">Keras</b-button>
             <b-button v-onscroll class="btn btn-7 mx-2 my-2">TFLearn</b-button>
-            <br>
-            <br>
-            Languages
-            <hr>
-            <b-button v-onscroll class="btn btn-8 mx-2 my-2">English</b-button>
-            <b-button v-onscroll class="btn btn-8 mx-2 my-2">Hindi</b-button>
-            <b-button v-onscroll class="btn btn-8 mx-2 my-2">Marathi</b-button>
         </b-card-text>
         </b-card>
 

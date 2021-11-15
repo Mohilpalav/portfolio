@@ -46,7 +46,7 @@
                 <ul>
                     <li> Conceptualized a multi-layer feed-forward perceptron neural network to classify text with 80% accuracy using TensorFlow and TFLearn. </li>
                     <li> Trained the model using the bag-of-words word vectorization model and One-Hot encoding on a restaurant corpus. </li>
-                    <li> Composed an interactive conversational chatbot that replies to user queries in Python. </li>
+                    <li> Tailored an interactive conversational chatbot that replies to user queries in Python. </li>
                 </ul>
                 </p>
                 <div class="row">
