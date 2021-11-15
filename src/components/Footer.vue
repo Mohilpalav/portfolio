@@ -24,7 +24,9 @@
                 </b-link>
                 </div>
                 <div class="col">
-                <b-icon icon="envelope"></b-icon> mmp365@drexel.edu
+                <a href="mailto:mmp365@drexel.edu">
+                    <b-icon icon="envelope"></b-icon> mmp365@drexel.edu
+                </a>
                 </div>
             </div>
         </div>
