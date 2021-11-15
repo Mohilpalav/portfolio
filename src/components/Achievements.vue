@@ -5,26 +5,6 @@
         <h1><b> Achievements </b></h1>
         <b-card v-onscroll class="shadow p-3 mb-5 bg-white rounded">
         <b-card-text>
-            <ul class="list-unstyled">
-                <b-media tag="li">
-                <template #aside>
-                    <b-icon class="mt-2" icon="award-fill"></b-icon>
-                </template>
-                <div class="row">
-                    <div class="col-sm">
-                       <h5 class="mt-0 mb-1">PCUBE Best Departmental project</h5>
-                    </div>
-                    <div class="col-sm">
-                    <p class="text-right">March, 2019</p>
-                    </div>
-                </div>
-                
-                <p class="mb-0">
-                    Recognized as a member of Drexel Chapter of Upsilon Pi Epsilon.
-                </p>
-                </b-media>
-            </ul>
-            <hr>
             
             <ul class="list-unstyled">
                 <b-media tag="li">
