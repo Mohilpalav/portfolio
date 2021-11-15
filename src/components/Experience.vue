@@ -15,7 +15,7 @@
                 <br>
                 <dl class="row">
                 <dt class="col-sm-3">Period</dt>
-                <dd class="col-sm-9"> August 2021-December 2021</dd>
+                <dd class="col-sm-9"> August 2021-Present</dd>
             
                 <dt class="col-sm-3">Role</dt>
                 <dd class="col-sm-9">
@@ -33,7 +33,7 @@
             <hr>
             
                 As part of the software engineering team, I had the opportunity to work on the WCA Worldwide VIRTUAL conference project in which more than 2000 participants participated from all across the world.
-                This project introduced me to a lot of new frameworks and technologies like Angular and Material-UI.
+                This project introduced me to new frameworks and technologies like Angular and Material-UI.
                 <br>
                 <br>
                 <dl class="row">
