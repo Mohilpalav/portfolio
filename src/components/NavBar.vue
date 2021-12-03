@@ -3,7 +3,7 @@
 
     <div class="Navbar">
         <b-navbar class="nav" type="dark" variant="dark">
-            <a href="#" class="navbar-brand mx-auto">
+            <a href="#" class="link mx-auto">
                 { Mohil Palav }
             </b-navbar-brand>
         </b-navbar>
@@ -16,15 +16,19 @@
 </script>
 
 <style lang="scss" scoped>
-.Navbar{
+.Navbar {
     @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
-    .nav{
+    .nav {
         position: relative;
         width: 100%;
         font-family: 'Bree Serif', serif;
         font: 200;
-}
+    }
+    .link {
+        color: white;
+        text-decoration: none;
+    }
 }
 
 
