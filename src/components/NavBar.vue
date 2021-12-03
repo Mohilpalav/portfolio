@@ -3,7 +3,7 @@
 
     <div class="Navbar">
         <b-navbar class="nav" type="dark" variant="dark">
-            <b-link href="#" class="navbar-brand link mx-auto">
+            <b-link href="" class="navbar-brand link mx-auto">
                 { Mohil Palav }
             </b-link>
         </b-navbar>
