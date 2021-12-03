@@ -6,7 +6,6 @@
             <b-link href="#" class="navbar-brand link mx-auto">
                 { Mohil Palav }
             </b-link>
-            </b-navbar-brand>
         </b-navbar>
     </div>
 
