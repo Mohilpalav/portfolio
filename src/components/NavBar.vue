@@ -2,10 +2,12 @@
 <template>
 
     <div class="Navbar">
-        <b-navbar class="nav" toggleable type="dark" variant="dark">
+        <b-navbar class="nav" type="dark" variant="dark">
+        <a href="#">
             <b-navbar-brand class="mx-auto">
                 { Mohil Palav }
             </b-navbar-brand>
+         </a>
         </b-navbar>
     </div>
 

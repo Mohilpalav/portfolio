@@ -4,7 +4,6 @@
     <b-jumbotron class="back">
         <b-container fluid class="p-3"> 
             <b-img center rounded="circle" class="image mx-auto shadow-lg bg-white rounded" :src="require('../assets/picture.jpg')"></b-img>
-                
         </b-container> 
     </b-jumbotron>
 
