@@ -9,11 +9,12 @@
             <hr>
             <b-button v-onscroll class="btn btn-1 mx-2 my-2">JavaScript</b-button>
             <b-button v-onscroll class="btn btn-1 mx-2 my-2">TypeScript</b-button>
-            <b-button v-onscroll class="btn btn-1 mx-2 my-2">Go lang</b-button>
             <b-button v-onscroll class="btn btn-1 mx-2 my-2">Java</b-button>
+            <b-button v-onscroll class="btn btn-1 mx-2 my-2">Python</b-button>
+            <b-button v-onscroll class="btn btn-1 mx-2 my-2">Go</b-button>
             <b-button v-onscroll class="btn btn-1 mx-2 my-2">C</b-button>
             <b-button v-onscroll class="btn btn-1 mx-2 my-2">C++</b-button>
-            <b-button v-onscroll class="btn btn-1 mx-2 my-2">Python</b-button>
+            
             <br>
             <br>
             Web Technologies
@@ -22,12 +23,11 @@
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">CSS</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">jQuery</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">PHP</b-button>
-            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Redux</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Angular</b-button>
-            <b-button v-onscroll class="btn btn-2 mx-2 my-2">React</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Next.js</b-button>
+            <b-button v-onscroll class="btn btn-2 mx-2 my-2">React</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Vue.js</b-button>
-            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Electron</b-button>
+            <b-button v-onscroll class="btn btn-2 mx-2 my-2">Redux</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Bootstrap</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Material-UI</b-button>
             <b-button v-onscroll class="btn btn-2 mx-2 my-2">Tailwind CSS</b-button>
@@ -39,7 +39,7 @@
             <b-button v-onscroll class="btn btn-3 mx-2 my-2">SQLite</b-button>
             <b-button v-onscroll class="btn btn-3 mx-2 my-2">PostgreSQL</b-button>
             <b-button v-onscroll class="btn btn-3 mx-2 my-2">Oracle</b-button>
-            <b-button v-onscroll class="btn btn-3 mx-2 my-2">Firebase</b-button>
+            <b-button v-onscroll class="btn btn-3 mx-2 my-2">MongoDB</b-button>
             <br>
             <br>
             Cloud Platforms
@@ -47,6 +47,8 @@
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">AWS</b-button>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">Docker</b-button>
             <b-button v-onscroll class="btn btn-4 mx-2 my-2">Vercel</b-button>
+            <b-button v-onscroll class="btn btn-4 mx-2 my-2">Netlify</b-button>
+            <b-button v-onscroll class="btn btn-4 mx-2 my-2">Heroku</b-button>
             <br>
             <br>
             API
