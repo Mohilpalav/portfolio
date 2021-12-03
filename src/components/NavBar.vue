@@ -3,10 +3,8 @@
 
     <div class="Navbar">
         <b-navbar class="nav" type="dark" variant="dark">
-            <b-navbar-brand class="mx-auto">
-                <a href="#">
-                    { Mohil Palav }
-                </a>
+            <a href="#" class="navbar-brand mx-auto">
+                { Mohil Palav }
             </b-navbar-brand>
         </b-navbar>
     </div>
