@@ -8,8 +8,8 @@
         </b-container> 
     </b-jumbotron>
     <blockquote class="blockquote text-center">
-        <p class="mb-0">“Innovation distinguishes between a leader and a follower.”</p>
-        <footer class="blockquote-footer">Steve Jobs <cite title="Source Title">(“The Innovation Secrets of Steve Jobs,” 2001)</cite></footer>
+        <p class="mb-0">“Talk is cheap. Show me the code.”</p>
+        <footer class="blockquote-footer">Linus Torvalds</footer>
     </blockquote>
     <div v-onscroll class="about p-5"> 
         <h3> Hi. I am Mohil Palav. I am a motivated computer science enthusiast with a creative and problem-solving mindset looking forward to applying my knowledge and project experiences in real-world applications.
